@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "JkZQoxN-VqVJFjoYMo_vJ"
+uri = "file://artifacts/calm-companion/assets/images/icon.png"
+type = "image"
+title = "calm-companion-icon"
